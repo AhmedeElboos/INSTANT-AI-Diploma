@@ -1,12 +1,7 @@
 
-Creating a mobile application for Android or iOS using Python can be achieved through various tools and frameworks. Two popular approaches are using cross-platform development frameworks and using Python for specific tasks within native app development. Here's a general overview of both methods:
-
-Cross-Platform Mobile App Development:
-
-Cross-platform frameworks allow you to write a single codebase that can be deployed to both Android and iOS. These frameworks often use Python alongside other technologies. Some popular options include:
+Creating a mobile application for Android or iOS using Python 
 
 a. Kivy:
-
 Kivy is a Python framework for developing multi-touch applications. It is open-source and supports both Android and iOS.
 You can create the user interface and application logic using Python with Kivy.
 b. React Native with Python:
